@@ -1,6 +1,6 @@
 # Purpose
 
-This code is used to middle element in a linked list. In case if two middle elements exist (length if list is even), the second middle element is returned.
+This code is used to return the middle element in a linked list. In case if two middle elements exist (length if list is even), the second middle element is returned.
 
 # Method
 
